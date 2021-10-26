@@ -1,6 +1,6 @@
 # clock | Make a Clock using Python
 
-This is a simple clock(GUI application)
+This is a simple clock(GUI application) using Python
 
 ..........
 
