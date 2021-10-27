@@ -10,3 +10,4 @@ This is a simple clock(GUI application) using Python
 ## Languages / Covered topics
 + Python, tkinter
 + LEARN: Python GUI application
+
